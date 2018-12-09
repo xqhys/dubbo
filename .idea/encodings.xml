@@ -3,8 +3,8 @@
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/a-hys-parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/a-hys-utils" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/a-hys-utils" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-colony" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-colony/co-demo-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-demo/demo-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-demo/dubbo-consumer" charset="UTF-8" />

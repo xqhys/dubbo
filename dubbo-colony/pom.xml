@@ -9,6 +9,10 @@
         <relativePath>../a-hys-parent/pom.xml</relativePath>
     </parent>
     <artifactId>dubbo-colony</artifactId>
+    <packaging>pom</packaging>
     <name>dubbo-colony</name>
 
+    <modules>
+        <module>co-demo-api</module>
+    </modules>
 </project>
