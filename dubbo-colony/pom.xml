@@ -15,5 +15,6 @@
     <modules>
         <module>co-demo-api</module>
         <module>co-dubbo-provider</module>
+        <module>co-dubbo-consumer</module>
     </modules>
 </project>
